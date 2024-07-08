@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=Git&amp;logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&amp;logo=Github&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black">
+  <img src="https://img.shields.io/badge/Sourcetree-0052cc.svg?style=for-the-badge&logo=Sourcetree&logoColor=black">
 </div>
 
 <div>
@@ -53,5 +53,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=Slack&amp;logoColor=white">
 </div>
 
-
+<div>
+<img src="https://img.shields.io/badge/redmine-B32024?style=for-the-badge&amp;logo=redmine&amp;logoColor=white">
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black">
+</div>
 

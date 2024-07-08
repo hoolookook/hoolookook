@@ -59,11 +59,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black">
 </div>
 
-<h3>🖥️ Tools 🖥️</h3>
-<div>
-    
-[Career](https://hoolookook.github.io/hoolook/career.pdf)
 
-</div>
 
 
